@@ -1,0 +1,10 @@
+USERNAME:
+    username
+PASSWORD:
+    password
+DOMAIN:
+    Default
+PROJECT_ID:
+    project_id
+AUTH_URL:
+    http://host:port/v3
